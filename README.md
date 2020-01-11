@@ -17,7 +17,7 @@ I designed e-drums eliminating the MIDI and middleware requirements that require
 - SPI.h for outputting the signal to the AUX-out
 
 ## Codes provided
-- [Final.ino] (https://github.com/KrishSkywalker/ArduinoDrumPads/blob/master/Codes%20and%20components/Arduino_drums_final/Arduino_drums_final.ino)
+- [Final.ino](https://github.com/KrishSkywalker/ArduinoDrumPads/blob/master/Codes%20and%20components/Arduino_drums_final/Arduino_drums_final.ino)
 - [Knock.ino](https://github.com/KrishSkywalker/ArduinoDrumPads/blob/master/Codes%20and%20components/knock/knock.ino)
 - [playMusic.ino](https://github.com/KrishSkywalker/ArduinoDrumPads/blob/master/Codes%20and%20components/playMusic/playMusic.ino)
 - [auxPortTesting.ino](https://github.com/KrishSkywalker/ArduinoDrumPads/blob/master/Codes%20and%20components/aux_port_testing/aux_port_testing.ino)
