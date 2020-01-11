@@ -1,0 +1,21 @@
+LED CASE
+
+Things inside the case
+-LED wires
+-Battery
+-Switch
+-Zero PCB with circuit
+
+Inner dimensions for box to be made
+100mm*50mm*50mm
+
+Holes needed on the case
+-6 Circular holes (LED Wires)
+-3.5mm (Aux input)
+
+Material
+-MDF
+
+Notes
+-Put a ziptie on LED input wire from inside the case to prevent the wire from coming out of the
+-Once in the case, seal the wire holes

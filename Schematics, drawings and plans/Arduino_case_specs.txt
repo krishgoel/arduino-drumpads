@@ -1,0 +1,29 @@
+ARDUINO CASE
+
+Things inside the case
+-Arduino Uno
+-Arduino Uno Protoboard with small breadboard
+-SD Card Module and SD Card
+-3.5 mm headphone jack input port (AUX input port)
+-Circuits
+
+Inner dimensions for box to be made
+74.8mm*55mm*30mm
+
+Holes needed on the case
+-12mm*10.9mm (Arduino Uno USB Type-B input for power)
+-6mm circular hole (AUX input port)
+-6x 4mm (Piezo Sensor wire input)
+
+Material
+-MDF
+
+Notes
+-Stackup the elements in the following order
+	1. Arduino Uno
+	2. Arduino Uno Protoboard
+	3. Small Breadboard
+	4. SD Card Module and SD Card
+	5. AUX input port
+-Put a ziptie on Piezo Sensor input wire from inside the case to prevent the wire from coming out of the
+-Once in the case, seal the wire holes
