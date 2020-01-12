@@ -23,4 +23,5 @@ I designed e-drums eliminating the MIDI and middleware requirements that require
 - [Knock.ino](https://github.com/KrishSkywalker/ArduinoDrumPads/blob/master/Codes%20and%20components/knock/knock.ino) This is the code for testing the piezo sensors, the connected LED lights up when the sensor detects a touch (change in the piezo-electric field)
 - [playMusic.ino](https://github.com/KrishSkywalker/ArduinoDrumPads/blob/master/Codes%20and%20components/playMusic/playMusic.ino) self-explanatory, code for testing the music playback 
 - [auxPortTesting.ino](https://github.com/KrishSkywalker/ArduinoDrumPads/blob/master/Codes%20and%20components/aux_port_testing/aux_port_testing.ino) again, self-explanatory, code to test the working of the AUX output port
+
 ```Made with ❤️ and a few lines of code by KrishSkywalker```
